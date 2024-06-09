@@ -2,9 +2,9 @@ void main(List<String> args) {
   int a = 1 - 2;
   print(a);
 
-  String kota = 'Gorontalo';
-  if (kota == 'Gorontalo'){
-    print('ya kota yang masukan adalah Gorontalo');
+  String kota = 'Sleman';
+  if (kota == 'sleman'){
+    print('ya kota yang masukan adalah sleman');
   } else {
     print('bukan sleman');
   }
